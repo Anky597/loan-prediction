@@ -2,4 +2,4 @@ streamlit
 xgboost
 scikit-learn
 pandas
-pickle5  # If you are using pickle5 instead of the default pickle module
+
